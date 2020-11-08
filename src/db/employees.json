@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Michael Scott",
+        "image": "../src/images/MichaelScott.jpg",
+        "department": "Management",
+        "email": "michaelscott@scranton.com",
+        "phone": "555-1234"
+    },
+    {
+        "id": 2,
+        "name": "Jim Halpert",
+        "image": "../src/images/Jim_halpert.jpg",
+        "department": "Paper Sales",
+        "email": "Jimbo@scranton.com",
+        "phone": "555-3145"
+    },
+    {
+        "id": 3,
+        "name": "Pam Beesly",
+        "image": "../src/images/Pam_Beesley.jpg",
+        "department": "Office Manager",
+        "email": "PBeesley@scranton.com",
+        "phone": "555-1313"
+    },
+    {
+        "id": 4,
+        "name": "Dwight Schrute",
+        "image": "../src/images/Dwight_Schrute.jpg",
+        "department": "Paper Sales",
+        "email": "BeetsRUS@scranton.com",
+        "phone": "555-1351"
+    },
+    {
+        "id": 5,
+        "name": "Creed Bratton",
+        "image": "../src/images/CreedBratton.jpg",
+        "department": "Human Resources",
+        "email": "JustCreed@scranton.com",
+        "phone": "969-3555"
+    },
+    {
+        "id": 6,
+        "name": "Erin Hannon",
+        "image": "../src/images/Erin_Hannon.jpg",
+        "department": "Assistant",
+        "email": "ErinHannon@scranton.com",
+        "phone": "131-5550"
+    },
+    {
+        "id": 7,
+        "name": "Kevin Malone",
+        "image": "../src/images/Kevin_Malone.jpg",
+        "department": "Accounting",
+        "email": "KMalone@scranton.com",
+        "phone": "770-6555"
+    },
+    {
+        "id": 8,
+        "name": "Angela Martin",
+        "image": "../src/images/Angela_Martin.jpg",
+        "department": "Accounting",
+        "email": "Cats4Lyfe@scranton.com",
+        "phone": "130-5559"
+    },
+    {
+        "id": 9,
+        "name": "Andy Bernard",
+        "image": "../src/images/Andy_Bernard.jpg",
+        "department": "Paper Sales",
+        "email": "Nardawg@scranton.com",
+        "phone": "155-5010"
+    },
+    {
+        "id": 10,
+        "name": "Toby Flenderson",
+        "image": "../src/images/Toby_Flenderson.jpg",
+        "department": "Human Resources",
+        "email": "ycantwebefriends@scranton.com",
+        "phone": "777-5550"
+    },
+    {
+        "id": 11,
+        "name": "Stanley Hudson",
+        "image": "../src/images/Standley_Hudson.jpg",
+        "department": "Paper Sales",
+        "email": "Iwant2goHome@scranton.com",
+        "phone": "555-5555"
+    }
+]
