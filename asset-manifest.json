@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Reactive-Employees/static/css/main.3d850424.chunk.css",
+    "main.js": "/Reactive-Employees/static/js/main.2a6de21e.chunk.js",
+    "main.js.map": "/Reactive-Employees/static/js/main.2a6de21e.chunk.js.map",
+    "runtime-main.js": "/Reactive-Employees/static/js/runtime-main.373dd789.js",
+    "runtime-main.js.map": "/Reactive-Employees/static/js/runtime-main.373dd789.js.map",
+    "static/js/2.028658d3.chunk.js": "/Reactive-Employees/static/js/2.028658d3.chunk.js",
+    "static/js/2.028658d3.chunk.js.map": "/Reactive-Employees/static/js/2.028658d3.chunk.js.map",
+    "index.html": "/Reactive-Employees/index.html",
+    "static/css/main.3d850424.chunk.css.map": "/Reactive-Employees/static/css/main.3d850424.chunk.css.map",
+    "static/js/2.028658d3.chunk.js.LICENSE.txt": "/Reactive-Employees/static/js/2.028658d3.chunk.js.LICENSE.txt",
+    "static/media/AndyBernard.841b1b67.jpg": "/Reactive-Employees/static/media/AndyBernard.841b1b67.jpg",
+    "static/media/AngelaMartin.1909e19a.jpg": "/Reactive-Employees/static/media/AngelaMartin.1909e19a.jpg",
+    "static/media/CreedBratton.a67bd2e5.jpg": "/Reactive-Employees/static/media/CreedBratton.a67bd2e5.jpg",
+    "static/media/DwightSchrute.ec50c4b9.jpg": "/Reactive-Employees/static/media/DwightSchrute.ec50c4b9.jpg",
+    "static/media/ErinHannon.3c090906.jpg": "/Reactive-Employees/static/media/ErinHannon.3c090906.jpg",
+    "static/media/JimHalpert.0a784e94.jpg": "/Reactive-Employees/static/media/JimHalpert.0a784e94.jpg",
+    "static/media/KevinMalone.51c6c202.jpg": "/Reactive-Employees/static/media/KevinMalone.51c6c202.jpg",
+    "static/media/MichaelScott.bf7de583.png": "/Reactive-Employees/static/media/MichaelScott.bf7de583.png",
+    "static/media/PamBeesly.df5fe60d.jpg": "/Reactive-Employees/static/media/PamBeesly.df5fe60d.jpg",
+    "static/media/StanleyHudson.bb519ceb.jpg": "/Reactive-Employees/static/media/StanleyHudson.bb519ceb.jpg",
+    "static/media/TobyFlenderson.dbe51de9.jpg": "/Reactive-Employees/static/media/TobyFlenderson.dbe51de9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.373dd789.js",
+    "static/js/2.028658d3.chunk.js",
+    "static/css/main.3d850424.chunk.css",
+    "static/js/main.2a6de21e.chunk.js"
+  ]
+}
