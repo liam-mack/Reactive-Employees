@@ -34,7 +34,7 @@
 >Unlicense
 
 ## Deployment
-Live Recording?: No  
+https://liam-mack.github.io/Reactive-Employees/ 
 
 Screenshot?: Yes
 ![](images/Deployed.png)
